@@ -29,6 +29,7 @@ Run the server:
   python manage.py runserver
   Visit http://127.0.0.1:8000 in your browser.
   
+  
 🧪 How It Works
 • User inputs a URL via the web form.
 • Features are extracted from the URL (length, presence of '@', number of dots, etc.).
